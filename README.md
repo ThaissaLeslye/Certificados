@@ -8,7 +8,7 @@ Meu nome é Thaissa, tenho 25 anos e atualmente estou estudando <strong>Ciência
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>python(pandas, numpy, flask),  javascript, java, HTML, CSS, SQL.</strong>
+  🦄 Linguagens: <strong>python(pandas, numpy, csv, flask),  javascript, java, HTML, CSS, SQL.</strong>
 </p>
 
 <p align="left">
