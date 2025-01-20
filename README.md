@@ -2,17 +2,21 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Meu nome é Thaissa, tenho 24 anos e atualmente estou estudando <strong>Ciência da Computação</strong>. 
+Meu nome é Thaissa, tenho 25 anos e atualmente estou estudando <strong>Ciência da Computação</strong>. 
   
-  Sou uma pessoa determinada, autodidata e estou constantemente buscando aprendizado e crescimento na área de tecnologia.
+  Sou uma pessoa pró ativa, comunicativa e comprometida. Estou constantemente buscando aprendizado e crescimento na área de tecnologia.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>python,  javascript, java, HTML, CSS, SQL.</strong>
+  🦄 Linguagens: <strong>python(pandas, numpy, flask),  javascript, java, HTML, CSS, SQL.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>workbench, VS code.</strong>
+  💼 Ferramentas: <strong>workbench, VS code, colab, Orchard.</strong>
+</p>
+
+<p align="left">
+  💼 Experiência: <strong>front-end: css (ES+Gás), análise de dados com python: observatório UFES - Covid19.</strong>
 </p>
 
   <a href="https://www.linkedin.com/in/thaissa-leslye-louren%C3%A7o-8b4b43182/" alt="Linkedin">
