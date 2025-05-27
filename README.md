@@ -46,6 +46,7 @@
   <li>
     <a href="https://thaissaleslye.github.io/QR_code_component/" target="_blank"><strong>QR Code Component</strong></a><br>
     Projeto simples criado enquanto aprendia sobre versionamento com Git e GitHub. Trabalhei estrutura básica de HTML e CSS.
+    <a href="https://github.com/ThaissaLeslye/QR_code_component" target="_blank">→ Ver código no GitHub</a>
   </li>
   <br>
   <li>
@@ -57,11 +58,13 @@
   <li>
     <a href="https://thaissaleslye.github.io/To-DoListProject/" target="_blank"><strong>To-Do List</strong></a><br>
     Projeto simples com JavaScript puro, onde pratiquei manipulação do DOM e lógica para adicionar e remover tarefas.
+    <a href="https://github.com/ThaissaLeslye/To-DoListProject" target="_blank">→ Ver código no GitHub</a>
   </li>
   <br>
   <li>
     <a href="https://thaissaleslye.github.io/site_LigaFemininaDeTI/" target="_blank"><strong>Site da Liga Feminina de TI</strong></a><br>
     Projeto mais completo, onde trabalhei estrutura, layout, organização e responsividade. O site apresenta a missão da Liga, ações realizadas e fomenta a participação de mulheres na tecnologia. Projeto realizado para o 1° Hackaton da Liga Feminina de TI!
+    <a href="https://github.com/ThaissaLeslye/site_LigaFemininaDeTI" target="_blank">→ Ver código no GitHub</a>
   </li>
 </ul>
 
