@@ -28,6 +28,18 @@
   </ul>
 </p>
 
+<p align="left">
+  📚 Certificações: <strong>Suporte de TI – Google</strong>
+</p>
+
+<p align="left">
+  🤝 Atuação voluntária: <strong>Ex-voluntária da Liga Feminina de TI</strong>, incentivando a inclusão de mulheres na tecnologia
+</p>
+
+<p align="left">
+  🚀 Buscando oportunidades que unam <strong>desenvolvimento</strong> e <strong>impacto real na vida das pessoas</strong> através da tecnologia.
+</p>
+
 <h3 align="left">🚧 Projetos em destaque</h3>
 
 <ul align="left">
@@ -52,18 +64,6 @@
     Projeto mais completo, onde trabalhei estrutura, layout, organização e responsividade. O site apresenta a missão da Liga, ações realizadas e fomenta a participação de mulheres na tecnologia. Projeto realizado para o 1° Hackaton da Liga Feminina de TI!
   </li>
 </ul>
-
-<p align="left">
-  📚 Certificações: <strong>Suporte de TI – Google</strong>
-</p>
-
-<p align="left">
-  🤝 Atuação voluntária: <strong>Ex-voluntária da Liga Feminina de TI</strong>, incentivando a inclusão de mulheres na tecnologia
-</p>
-
-<p align="left">
-  🚀 Buscando oportunidades que unam <strong>desenvolvimento</strong> e <strong>impacto real na vida das pessoas</strong> através da tecnologia.
-</p>
 
   <a href="https://www.linkedin.com/in/thaissa-leslye-louren%C3%A7o-8b4b43182/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
